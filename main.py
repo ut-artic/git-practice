@@ -1,5 +1,5 @@
 def greet():
-print ("Hello,  Git!")
+print ("Привет,  Git!")
 
 If __name__ = "__main__":
 greet()
